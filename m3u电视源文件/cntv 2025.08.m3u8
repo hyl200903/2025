@@ -35,6 +35,8 @@ http://120.76.248.139/live/bfgd/4200000063.m3u8
 http://112.46.85.60:8009/hls/4/index.m3u8
 #EXTINF:-1 ,CCTV4
 https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
+#EXTINF:-1,CCTV-5
+http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 ,CCTV5
 http://112.46.105.20:8009/hls/503/index.m3u8
 #EXTINF:-1 ,CCTV5
@@ -1920,4 +1922,5 @@ http://pili-live-hls.hfmt.net/gntv/zntv.m3u8?zgand
 #EXTINF:-1 ,自贡公共
 http://110.189.153.160:1002/ggpd.flv
 #EXTINF:-1 ,自贡综合
+
 http://110.189.153.160:1001/zhpd.flv
